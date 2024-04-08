@@ -342,7 +342,7 @@ def payforfood():
       bankid=Entry(frame12,width=30,fg=b,font="helvetica 15 italic")
       bankid.grid(row=6,column=1)
       Label(frame12,text="SMPK Bank Password : ",font="helvetica 15 italic",bg=b,fg="light blue").grid(row=7,column=0)
-      key=Entry(frame12,width=30,fg=b,font="helvetica 15 italic")
+      key=Entry(frame12,width=30,fg=b,show="*",font="helvetica 15 italic")
       key.grid(row=7,column=1)
       global tot
       tot=total
@@ -426,7 +426,7 @@ def payforroom():
       bankid=Entry(frame12,width=30,fg=b,font="helvetica 15 italic")
       bankid.grid(row=6,column=1)
       Label(frame12,text="SMPK Bank Password : ",font="helvetica 15 italic",bg=b,fg="light blue").grid(row=7,column=0)
-      key=Entry(frame12,width=30,fg=b,font="helvetica 15 italic")
+      key=Entry(frame12,width=30,fg=b,show="*",font="helvetica 15 italic")
       key.grid(row=7,column=1)
 
       #pay now
