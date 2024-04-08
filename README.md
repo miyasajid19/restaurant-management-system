@@ -1,5 +1,34 @@
 This restaurant management system, developed using Tkinter, encompasses key functionalities such as order processing and room reservation management for existing guests in the database. Although there is potential to incorporate additional features such as integrating room details and menus into the database, the primary emphasis has been on maintaining the entirety of the project within a single file and managing code length, which exceeds 700 lines. Consequently, while the DRY (Don't Repeat Yourself) principle hasn't been fully adhered to, and the code predominantly follows a procedural paradigm. It is presumed that the requisite databases and tables have been pre-established for the program's operation.
 
+INTERFACES
+
+![Screenshot 2024-04-08 183950](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/56e63767-e809-45bc-8ea6-45061083011f)
+
+![Screenshot 2024-04-08 184007](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/5cb2ca96-fbed-4364-bc1d-e5352b544236)
+
+![Screenshot 2024-04-08 184047](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/1e89eb70-892c-4505-8bef-8c3ccf40cef9)
+
+![Screenshot 2024-04-08 184101](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/069b2554-d9f5-46c8-b8a0-b1300bab0a6c)
+
+![Screenshot 2024-04-08 184121](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/9e9daf51-68a1-4b14-a51e-006e4b06364c)
+
+![Screenshot 2024-04-08 184208](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/1aa9852d-09d4-435e-befc-28340311702f)
+
+![Screenshot 2024-04-08 184301](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/3926d479-a8fc-4afe-a53c-9d52eb622cb7)
+
+![Screenshot 2024-04-08 184314](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/91fe59f7-d72b-4dc3-a204-65b4acefe67c)
+
+![Screenshot 2024-04-08 184336](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/672c88bb-98ed-43e1-91e5-403276762de2)
+
+![Screenshot 2024-04-08 184507](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/7f795e57-d3c7-4925-8011-f35403cd9168)
+
+![Screenshot 2024-04-08 184518](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/791879bf-8068-42d3-9996-3a0608801cff)
+
+![Screenshot 2024-04-08 184547](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/e6a62799-dac0-424c-9619-4189e13c73a4)
+
+![Screenshot 2024-04-08 184655](https://github.com/miyasajid19/restaurant-management-system/assets/166320427/84d20aa4-b994-4ebd-b847-ffcbc64ac27b)
+
+
 CREATING DATABASE
 
     CREATE DATABASE restaurantmanagementsystem
